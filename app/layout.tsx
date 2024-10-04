@@ -19,10 +19,7 @@ export default function RootLayout({
   return (
    
     <html lang="en">
-      {/* <Head>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" />
-
-      </Head> */}
+      
     
       <body>
         <Navbar/>
